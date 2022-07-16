@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "acheron_MX")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_MX.pretty")(options "")(descr ""))
+  (lib (name "Gigadevice")(type "KiCad")(uri "${KIPRJMOD}/libraries/Gigadevice.pretty")(options "")(descr ""))
+  (lib (name "mcu_wch")(type "KiCad")(uri "${KIPRJMOD}/libraries/mcu_wch.pretty")(options "")(descr ""))
+  (lib (name "WCH")(type "KiCad")(uri "${KIPRJMOD}/libraries/WCH.pretty")(options "")(descr ""))
+  (lib (name "USB_C_Receptable")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB_C_Receptable.pretty")(options "")(descr ""))
+)

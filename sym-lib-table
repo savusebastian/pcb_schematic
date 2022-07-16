@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Gigadevice")(type "KiCad")(uri "${KIPRJMOD}/libraries/Gigadevice.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_WCH_CH582")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCU_WCH_CH582.kicad_sym")(options "")(descr ""))
+  (lib (name "USB_C_Receptacle")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB_C_Receptacle.kicad_sym")(options "")(descr ""))
+)

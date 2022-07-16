@@ -1,0 +1,3727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/seb/Documents/kicad/keyboard_v5/keyboard_v5.kicad_sch</source>
+    <date>Thu 09 Jun 2022 07:32:38 AM EEST</date>
+    <tool>Eeschema 6.0.5-2.fc36</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Split keyboard</title>
+        <company>Sebastian</company>
+        <rev>0.1</rev>
+        <date>2022-01-18</date>
+        <source>keyboard_v5.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C106218</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C106218"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94491976-149e-46f3-a3d0-c3a0f18c8d5b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4.7n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C106218</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C106218"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ee55706-8d35-40e5-b1a0-a713e85c4182</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C85713</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C85713"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95c7e028-5ca7-4180-9ed8-6ffa0e5195fc</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C85713</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C85713"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a9933c-ff18-4fcd-b8aa-99d910faf442</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C85713</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C85713"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>529647e1-4c41-4558-8439-498a91db1752</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C85713</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C85713"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb8212f7-a340-4b00-99ae-d487e41a1511</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1591</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1591"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04c3f4a3-65a3-446c-95f2-33a28a1920e6</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1591</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1591"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef35376d-ac34-4452-86a8-b1a512d6a75b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>20p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C105621</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105621"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8ccb3c4-2d44-40d5-a53a-d7c280721889</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>20p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C105621</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105621"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>719ae58c-64aa-4c39-a75e-ebf69556140a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>20p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C105621</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105621"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13dd92b6-06ca-4e0b-9ee3-12c7f508706e</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>20p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C105621</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C105621"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e49dbf2-a315-4cb2-bb9b-7fe187d082e1</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1591</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1591"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daf2ed06-a601-47bf-a559-07793fea1c12</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1591</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1591"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ac911a4-c48f-47ce-8b2e-493fadb93c85</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efb83d02-135f-4203-b859-c0c5ec914310</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9c204d8-27ff-4a4c-8192-4f4c0d1bf4ef</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee1d87f0-3d52-436d-84d0-fb551ad93820</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fc3394d-aae6-4ded-b6d1-3c72ae42c8c6</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50b41fb7-d01f-4ac2-9d4b-36fb54377403</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9651fbd6-b885-4b81-8865-44c41b4e76b3</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9ce9815-7488-49e5-9297-20dbf943ee28</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7015b18d-16d6-48ab-9de8-d357654f4a0d</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb741732-0d12-45c3-bdb3-40559f97c20a</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>880dd56a-9a78-4996-a8a0-8232b1e69c31</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32771392-eb51-4b44-910c-1c84d48526ea</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>077b2041-c435-4fd4-9262-8f6fc3acc854</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a7d777f-9df4-439b-a670-f801fb4bb9ef</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>857645a5-b46e-457e-a133-99c13dbd5cc0</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b609f6a-d80c-4cc4-acff-73ef8292dc87</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a034fe31-0f86-4a23-bf78-b7506f86c671</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce694184-1167-402c-be1b-6e86d8e01c3a</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89eea07c-1bc6-4a53-85b5-7d07c7d6bd91</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34ccc4a1-f6d7-478c-b142-e215cd008a93</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cb622e7-9e1e-4a8d-93ea-06a4270dec22</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78fed138-17e3-4b89-9a39-8fb7a036239c</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d4856f3-2840-4420-a528-179027977245</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e66bc35c-74e1-466c-9d3e-62a95ec65111</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12930018-d72a-43ab-b3c0-261985862d6d</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8427fa9-592c-4fc0-a2be-a2d2bd16b18b</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97d344d7-4135-4f35-9345-c550169bf7fe</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24ee9617-7644-4468-943e-420f6edd5f07</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d96db1f-a9d2-4e5a-8370-4e12de7505ec</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0ac9547-5e92-4b09-ae2c-58465776ee2d</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5932e6c1-c872-42bc-9f96-fe030c028ddd</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e7a9c7b-d99e-49dc-beff-0f6f8a208798</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d4dbeae-2ea9-459e-921d-e910d5c7b604</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e14957b-e576-41a9-bb46-75f8907d7a1c</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fdc5bec-f264-4372-8c4a-b00b9bfa4ffa</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a553068-028a-4190-84d2-67fe40584b2a</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb1a9991-1a75-4aac-b1d2-9bb14344db70</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13a49222-b592-40c4-9e4b-134f73466ee9</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c4c086-e0ea-41b3-b4f1-9efb2eaa1ccb</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41eeaf0a-94b5-47bc-becf-28311c924f16</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea514de6-95a1-444c-bfa8-c18b5fd10d03</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43bdc884-ecf1-4ea8-ad89-d1946f2d7b22</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>554ed157-5b4b-47c8-a63d-17ccea80b54a</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b99edabb-0016-4d5b-b271-887ea2644981</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba07eddf-f7f6-4f9e-b487-d5f2a2519602</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70212dec-16b9-4c0c-be13-396c07adae29</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>962ae3f2-f42f-4732-959c-b96dc8a890b0</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c225684-863a-4318-81ba-c4c1e8a9cf80</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d533ace-e373-4871-9b28-b1ae77cbbd2e</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3002ddb-06b0-4c55-ac7f-1ea865deadf2</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1403db07-07df-432b-bb49-e84e2e8416f6</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da8229a1-e2d8-47dc-a2da-5cea5b9e9be7</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15ba966b-27ad-4495-b7ce-dd158149fed5</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db3aa1e4-27b2-4b21-ba29-14f846a6edd6</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e4050b-8496-4f24-ac6f-5382cbf38bda</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59e5ede0-ceaf-4003-a942-1c5beafc5f73</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1ae70b4-b9dc-48ca-bf4e-99a5785cd7da</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>868c606e-b195-4bcd-9c4a-488068a668bc</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2015481-7c22-4f34-b5b7-5a1f9a5fc6b8</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe5ec9e6-38c8-45fc-b819-66bb46217c0d</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21f688bd-e00c-4152-844f-ee42e296ba87</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0a5a159-c5fc-41ad-9dc4-de01e3bc8fc0</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>459b355e-02dc-43c7-a9bf-2e48808ed40a</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c8db45c-97da-42cc-a4cb-6687f433a912</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b969e118-d5be-4202-bce5-4ae69a82ea59</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6beffd72-6972-4fd3-9b23-91e9fabd61c0</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77afc69d-ee86-4194-b50d-d372dc0cb972</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efbb8077-f3d3-48b6-847f-492827f5dffc</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b308832-4e89-438f-8de0-1b9a22631931</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ab120d5-626c-455f-87a5-124a7d3890fc</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4fa7590-8feb-40a5-b521-85510060fa57</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d182dcd7-0544-4461-a4e5-84ef4fae744f</tstamps>
+    </comp>
+    <comp ref="D72">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d197d33-5014-4d08-b973-b3b35e057053</tstamps>
+    </comp>
+    <comp ref="D73">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c4b9479-0ed8-421e-add8-2cf902b96655</tstamps>
+    </comp>
+    <comp ref="D74">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e2d6e7f-9d86-4956-ad0a-850fa0573547</tstamps>
+    </comp>
+    <comp ref="D75">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>759ff92b-b49f-4a10-b668-cc27f69bde7b</tstamps>
+    </comp>
+    <comp ref="D76">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdcff15a-412f-4a57-8d45-f8b1a2157580</tstamps>
+    </comp>
+    <comp ref="D77">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f3aef19-890f-46a4-9d19-0d9c64c9f9a8</tstamps>
+    </comp>
+    <comp ref="D78">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48787564-2eb8-4a9b-a3c6-3768b44a14d4</tstamps>
+    </comp>
+    <comp ref="D79">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3726a2ff-8bbf-46fc-ac26-4fc7b44c9e69</tstamps>
+    </comp>
+    <comp ref="D80">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C908221</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC" value="C908221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7ffade5-69db-45a2-93ee-a889a494cd74</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C163116</field>
+      </fields>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="LCSC" value="C163116"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7240be6-efd8-42d4-8f21-54861f1de715</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C163116</field>
+      </fields>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="LCSC" value="C163116"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79e24ca0-f090-4789-822d-e96e15a8ff28</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>TYPE-C-31-M-13</value>
+      <footprint>USB_C_Receptable:TYPE-C-31-M-12</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101526_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C223906</field>
+      </fields>
+      <libsource lib="USB_C_Receptacle" part="TYPE-C-31-M-13" description=""/>
+      <property name="LCSC" value="C223906"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f32746fa-21ad-4ec7-8c7f-57e6d3c69bf1</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>TYPE-C-31-M-13</value>
+      <footprint>USB_C_Receptable:TYPE-C-31-M-12</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101526_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C223906</field>
+      </fields>
+      <libsource lib="USB_C_Receptacle" part="TYPE-C-31-M-13" description=""/>
+      <property name="LCSC" value="C223906"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>848e94fd-5f5c-4fa4-a7e6-d443cd803501</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C49257</field>
+      </fields>
+      <libsource lib="" part="Conn_01x03_1" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C49257"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e9b18b5-92ae-46c2-aaa3-daef49a8adac</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C49257</field>
+      </fields>
+      <libsource lib="" part="Conn_01x03_1" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C49257"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6808576-bb53-4c29-8ffc-86a3371df820</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C124378</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C124378"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3dadd5e-592f-4cf1-a0e4-455bd092213d</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C124378</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C124378"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33478f07-d4f1-4390-832d-7737aeddd38d</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C492401</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C492401"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acef9f50-583d-49bd-95d0-3d5b68675a07</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC">C492401</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C492401"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffb311f7-0122-4548-bceb-5213a073692b</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>TYPE-C-31-M-13</value>
+      <footprint>USB_C_Receptable:TYPE-C-31-M-12</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101526_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C223906</field>
+      </fields>
+      <libsource lib="USB_C_Receptacle" part="TYPE-C-31-M-13" description=""/>
+      <property name="LCSC" value="C223906"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1da31e9c-2f44-4665-b558-c7978a5dddb9</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>TYPE-C-31-M-13</value>
+      <footprint>USB_C_Receptable:TYPE-C-31-M-12</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101526_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C223906</field>
+      </fields>
+      <libsource lib="USB_C_Receptacle" part="TYPE-C-31-M-13" description=""/>
+      <property name="LCSC" value="C223906"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9316560-b479-4cdd-b26c-f11b9aed987a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14677</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C14677"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1f43577-fe3e-44b7-8031-a15322892ff8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14677</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C14677"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03a361cc-aa4c-484c-a82f-1bfb80243eb8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14677</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C14677"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>046635eb-49ee-4ffc-9f6e-56b8106862c5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14677</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C14677"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>617dbff2-61ea-4581-a7ea-7686f17276d4</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C105578</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C105578"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>691f9291-e657-48e7-b8de-e14cd0a612d2</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C105578</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C105578"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9926d265-d6d8-48d5-93dc-ddf5365eb11a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C114669</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C114669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f04c7f61-cbba-43f3-9182-6fbba0058bd9</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C114669</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C114669"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4efebc1e-2f94-4786-a6a2-80e2d26eb13c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C99782</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C99782"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea6e9d89-70c9-4a5d-8a22-1fcf13141535</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C99782</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C99782"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>717ce213-1f18-4980-ac3d-8070bbefcf29</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b80f33ce-c570-46a5-a759-8a61cc942b22</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71030a32-d1cf-4c5f-b035-48e8162dca09</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6f66e49-0383-4b01-a790-8ca618e97985</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>182c7f3a-ffa1-4450-9ae0-3514ef4288aa</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e50bea87-2ea4-4103-bf2c-e4feffb9f20a</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e7e8840-579a-4462-a55e-c92a2a5c66f7</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b3d512f-d5e6-4738-b474-7b330df3bc69</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11a632a7-944b-4ffc-aeb8-9b2dcce1a238</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed4d155f-d665-49bf-aa67-bfbcc1dc9a3a</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87318c75-f5dc-4f92-9c14-299e3f3983a0</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5de359e-a389-46b7-b243-c65de18fef05</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0401f61c-eb17-428c-b501-b7f0b602a2dc</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbb6ae48-81c0-49ea-a7c0-61e9f3227976</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b4f58fb-bfa3-4de0-b605-d3e8a1e82434</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5337fbd1-1fb3-4a03-b6ac-7fda5803b92a</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b06d74f-6bca-4f81-9d84-938f096b5cde</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>554c40e1-7fc9-49f5-9435-d70895d89141</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>949d0963-6003-48fd-b583-73294e7c1b17</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f0a02ec-1f7a-4b27-8ed8-f9aeb0d36e4b</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a80a83c-84aa-4c7f-8049-c0804acec665</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba4f09e1-cd4f-448f-9f7d-b360460dc05a</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf1da29e-26b6-4834-bf8e-44528d582663</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1652921-db5c-4cd9-9030-d19ac8b4136d</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26d44331-8eef-4467-b349-52cddfb0068d</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12934920-9177-47a6-80eb-e97595efc3e5</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2126e2aa-2017-4a5d-851c-76eaa0172be7</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8383fd0b-8026-450c-92f3-5f44d6fbdf6a</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>234f827f-b7f6-4a8a-a2a7-33fa969804fb</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d96ffcc-f7db-4565-8f97-4b4cd6fa254d</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72c753a7-5823-49d2-8e90-3509a53cebfc</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cf50e83-42f1-4bc3-90fe-c8ed0cda8fac</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c255dbe-c366-4206-96d2-36b66240f19b</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20e96fe6-e769-469c-b8d2-10db85969207</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3fb0f9c-88b9-49df-a540-ba37e5abb9eb</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>681d6dde-adfa-4322-852d-394413172464</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33766370-19c1-4895-9533-67fb4d8ea282</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fc33ab2-19a6-420c-82e6-cd66fe047482</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c974d472-8839-4ba9-a0b1-82c1932f4a45</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>716fbf8b-610f-458f-aeb1-927a792e8911</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4c836d4-96f4-4791-ac93-d1ec76c4456f</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e0695a4-1031-4a16-accc-2fc40be2c2dc</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22819883-290e-430e-9a74-639daffef126</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f34c9d12-e70e-427b-96c8-ded9eb7986dc</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f9f7a8d-49ef-4e55-b29c-6be49a25c39e</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>699b81c0-3ba4-413c-b45e-792daacd80cc</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38f2681d-82da-479e-97cc-6cd3ce69b39f</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5942f32-9601-4ac2-8b4e-4e70f0dd6fc0</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0baee87d-ed7b-4555-87ef-4f409e1f0f4c</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa1292dd-c467-4c67-a4fa-02694180fae8</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03b9ebed-2c84-4b81-b101-6382c762a424</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcdf7464-3c5b-4e5b-b51d-41b315c735db</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed050ca2-1572-42a9-a85b-51fc70835db4</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39d535b4-b8a8-478c-b1eb-945dbf350c86</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31bf76e0-3610-4c9a-98e9-d255980b3cb5</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>feced483-6240-48a1-a1a7-2177c95c025d</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e13b44f-57e4-4635-a62d-b869d273dd6b</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e9caadd-e708-4a28-8bea-63d8b6097143</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8bd5721-ef55-4800-9766-6c79d830b0a4</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX200</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0829a025-2266-419a-b99a-b427d0be6926</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cba1163-8de6-4a17-a7c6-75eed510ce9a</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b5709eb-fcbd-4e04-a913-8abe283784b4</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8e549f8-5781-4774-817c-0767d09b5c2f</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f014ef9-bfbe-43b1-b730-53247b6798bc</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da9b8c50-183d-4a5c-8da6-76c101a0c68c</tstamps>
+    </comp>
+    <comp ref="SW61">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6a2b10c-44c1-4ff9-a3c5-1de06747a167</tstamps>
+    </comp>
+    <comp ref="SW62">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91352e90-fc0d-4a6f-9bca-271346ac36ac</tstamps>
+    </comp>
+    <comp ref="SW63">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e8a7194-2116-4b95-b1a2-74288ec1c155</tstamps>
+    </comp>
+    <comp ref="SW64">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be4145e8-2860-4561-b4bc-ee1d8b461f1e</tstamps>
+    </comp>
+    <comp ref="SW65">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64638ea8-636a-4abb-ac8b-2a2658a55726</tstamps>
+    </comp>
+    <comp ref="SW66">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e9663fb-208e-46bf-9029-6acfab5c4ad4</tstamps>
+    </comp>
+    <comp ref="SW67">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f646727b-d609-4eb1-b780-a4243c39ff63</tstamps>
+    </comp>
+    <comp ref="SW68">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad9f6328-c3ca-489e-bda1-b5102d9e0048</tstamps>
+    </comp>
+    <comp ref="SW69">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4142230e-0433-436e-9e85-8ff504f903e8</tstamps>
+    </comp>
+    <comp ref="SW70">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e98402bf-b466-43cb-b659-899fe657083e</tstamps>
+    </comp>
+    <comp ref="SW71">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3fa1789-00b9-49ce-b9c5-ec1d71f4ff10</tstamps>
+    </comp>
+    <comp ref="SW72">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ddd5944-6fa4-4470-b07c-8f6d7f4884a9</tstamps>
+    </comp>
+    <comp ref="SW73">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eac33c9-8bb5-434a-bc0a-72dddb0ae4c9</tstamps>
+    </comp>
+    <comp ref="SW74">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX200</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50e2431f-5d43-476f-8de5-1273c403e68f</tstamps>
+    </comp>
+    <comp ref="SW75">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0055b2c4-2e49-4049-a929-31f12e223063</tstamps>
+    </comp>
+    <comp ref="SW76">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27f3b786-8925-42aa-aebb-58c53f38b3bf</tstamps>
+    </comp>
+    <comp ref="SW77">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53a9622f-35dc-46de-afdf-5d1b59940835</tstamps>
+    </comp>
+    <comp ref="SW78">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43308430-7eda-4f31-a80f-e5368bf212c6</tstamps>
+    </comp>
+    <comp ref="SW79">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ba6ae14-4d8e-4139-a6b5-110b34d2f687</tstamps>
+    </comp>
+    <comp ref="SW80">
+      <value>SW_Push</value>
+      <footprint>acheron_MX:MX100</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cadbc20-54aa-413e-858b-1ef783a39d5c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C7519</field>
+      </fields>
+      <libsource lib="" part="USBLC6-2SC6_1" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="LCSC" value="C7519"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>401a4091-57bc-4939-8809-d9ffd2accedf</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C7519</field>
+      </fields>
+      <libsource lib="" part="USBLC6-2SC6_1" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="LCSC" value="C7519"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29d20f99-316d-45c1-942e-e9a2a41c2396</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LD1117S33TR_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C86781</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LD1117S33TR_SOT223" description="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="LCSC" value="C86781"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>567bd193-a67d-4d86-975d-4096b32a22cb</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LD1117S33TR_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C86781</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LD1117S33TR_SOT223" description="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="LCSC" value="C86781"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f69cf8d-3970-4b99-bf60-c162c2264ed8</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>AT24C256C-SSHL-T</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/CAT24C256-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C6482</field>
+      </fields>
+      <libsource lib="Memory_EEPROM" part="CAT24C256" description="256 kb CMOS Serial EEPROM, DIP-8/SOIC-8/TSSOP-8/DFN-8"/>
+      <property name="LCSC" value="C6482"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b197aec4-ce0a-4afa-ac64-32fede3eecbc</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>AT24C256C-SSHL-T</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/CAT24C256-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C6482</field>
+      </fields>
+      <libsource lib="Memory_EEPROM" part="CAT24C256" description="256 kb CMOS Serial EEPROM, DIP-8/SOIC-8/TSSOP-8/DFN-8"/>
+      <property name="LCSC" value="C6482"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4e80b04-db49-46c9-8c71-c7224e9b3048</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>CH32VF103Cx</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2201121830_WCH-Jiangsu-Qin-Heng-CH32V103C8T6_C2764428.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2764428</field>
+      </fields>
+      <libsource lib="" part="GD32VF103Cx_1" description=""/>
+      <property name="LCSC" value="C2764428"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfc5883d-f2a2-4bcc-b6b7-102661b4153c</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>CH32VF103Cx</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2201121830_WCH-Jiangsu-Qin-Heng-CH32V103C8T6_C2764428.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2764428</field>
+      </fields>
+      <libsource lib="" part="GD32VF103Cx_1" description=""/>
+      <property name="LCSC" value="C2764428"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29136f5e-c232-43d8-8756-b833cb0ec953</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>8Mhz</value>
+      <footprint>Crystal:Crystal_SMD_HC49-SD</footprint>
+      <fields>
+        <field name="LCSC">C106809</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_Small" description="Two pin crystal, small symbol"/>
+      <property name="LCSC" value="C106809"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dd4ffe8-36d9-4ae9-a063-054c0ef5d3a9</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>8Mhz</value>
+      <footprint>Crystal:Crystal_SMD_HC49-SD</footprint>
+      <fields>
+        <field name="LCSC">C106809</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_Small" description="Two pin crystal, small symbol"/>
+      <property name="LCSC" value="C106809"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="keyboard_v5.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1303efdb-3a7a-4dcf-87c6-0eddec98619a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Conn_01x03_1">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">Conn_01x03_1</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="GD32VF103Cx_1">
+      <docs>https://gd32mcu.com/data/documents/shujushouce/GD32VF103_Datasheet_Rev1.5.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">GD32VF103Cx_1</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">https://gd32mcu.com/data/documents/shujushouce/GD32VF103_Datasheet_Rev1.5.pdf</field>
+        <field name="LCSC">C717614</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13-TAMPER-RTC" type="bidirectional"/>
+        <pin num="3" name="PC14-OSC32IN" type="bidirectional"/>
+        <pin num="4" name="PC15-OSC32OUT" type="bidirectional"/>
+        <pin num="5" name="PD0-OSCIN" type="input"/>
+        <pin num="6" name="PD1-OSCOUT" type="output"/>
+        <pin num="7" name="NRST" type="bidirectional"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0-WKUP" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS_1" type="power_in"/>
+        <pin num="24" name="VDD_1" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS_2" type="power_in"/>
+        <pin num="36" name="VDD_2" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS_3" type="power_in"/>
+        <pin num="48" name="VDD_3" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="USBLC6-2SC6_1">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">USBLC6-2SC6_1</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+        <field name="LCSC">C7519</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J3</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C492401</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_Small">
+      <description>Two pin crystal, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse_Small">
+      <description>Fuse, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_EEPROM" part="CAT24C256">
+      <description>256 kb CMOS Serial EEPROM, DIP-8/SOIC-8/TSSOP-8/DFN-8</description>
+      <docs>https://www.onsemi.cn/PowerSolutions/document/CAT24C256-D.PDF</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>DFN*3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">AT24C256C-SSHL-T</field>
+        <field name="Datasheet">https://www.onsemi.cn/PowerSolutions/document/CAT24C256-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LD1117S33TR_SOT223">
+      <description>800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LD1117S33TR_SOT223</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB_C_Receptacle" part="TYPE-C-31-M-13">
+      <docs>https://datasheet.lcsc.com/lcsc/1811101526_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M-13</field>
+        <field name="Footprint">USB_C_Receptable:TYPE-C-31-M-13</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811101526_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.pdf</field>
+        <field name="LCSC">C223906</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBUS1" type="bidirectional"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBUS2" type="bidirectional"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Memory_EEPROM">
+      <uri>/usr/share/kicad/symbols//Memory_EEPROM.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="USB_C_Receptacle">
+      <uri>/home/seb/Documents/kicad/keyboard_v5/libraries/USB_C_Receptacle.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3.3V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U5" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U7" pin="24" pinfunction="VDD_1" pintype="power_in"/>
+      <node ref="U7" pin="36" pinfunction="VDD_2" pintype="power_in"/>
+      <node ref="U7" pin="48" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U8" pin="24" pinfunction="VDD_1" pintype="power_in"/>
+      <node ref="U8" pin="36" pinfunction="VDD_2" pintype="power_in"/>
+      <node ref="U8" pin="48" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="U8" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J10" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J10" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J9" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J9" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="WP" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U6" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="WP" pintype="input"/>
+      <node ref="U7" pin="23" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="U7" pin="35" pinfunction="VSS_2" pintype="power_in"/>
+      <node ref="U7" pin="47" pinfunction="VSS_3" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U8" pin="23" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="U8" pin="35" pinfunction="VSS_2" pintype="power_in"/>
+      <node ref="U8" pin="47" pinfunction="VSS_3" pintype="power_in"/>
+      <node ref="U8" pin="8" pinfunction="VSSA" pintype="power_in"/>
+    </net>
+    <net code="3" name="LBOOT">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U7" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="4" name="LC1">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW70" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="LC2">
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW71" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="LC3">
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW72" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="LC4">
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW73" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="LC5">
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW74" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="LC6">
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="LC7">
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW62" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="LD+">
+      <node ref="U1" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U7" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="LD-">
+      <node ref="U1" pin="1" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U7" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="LDBUS+">
+      <node ref="J1" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="14" name="LDBUS-">
+      <node ref="J1" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="15" name="LNRST">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="NRST" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="LR1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="LR2">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="LR3">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="LR4">
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="LR5">
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="LR6">
+      <node ref="D70" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D71" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D72" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D73" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D74" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="LSCL">
+      <node ref="J9" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J9" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="SCL" pintype="input"/>
+      <node ref="U7" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="LSDA">
+      <node ref="J9" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J9" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U7" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="LSWDCK">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="LSWDIO">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="LVBUS">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J9" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="30" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="31" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="PD0-OSCIN" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="PD0-OSCIN" pintype="input"/>
+      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="PD1-OSCOUT" pintype="output"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="PD1-OSCOUT" pintype="output"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW62" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW63" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(D64-Pad2)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW65" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(D66-Pad2)">
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW66" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW67" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(D68-Pad2)">
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW68" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(D69-Pad2)">
+      <node ref="D69" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW69" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(D70-Pad2)">
+      <node ref="D70" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW70" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(D71-Pad2)">
+      <node ref="D71" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW71" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(D72-Pad2)">
+      <node ref="D72" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW72" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW73" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(D74-Pad2)">
+      <node ref="D74" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW74" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(D75-Pad2)">
+      <node ref="D75" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW75" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(D76-Pad2)">
+      <node ref="D76" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW76" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(D77-Pad2)">
+      <node ref="D77" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW77" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(D78-Pad2)">
+      <node ref="D78" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW78" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(D79-Pad2)">
+      <node ref="D79" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW79" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(D80-Pad2)">
+      <node ref="D80" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW80" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(J2-PadA5)">
+      <node ref="J2" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(J2-PadB5)">
+      <node ref="J2" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="123" name="RBOOT">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U8" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="124" name="RC1">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW69" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW80" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="RC2">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW68" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW79" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="RC3">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW67" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW78" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="RC4">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW66" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW77" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="RC5">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW65" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW76" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="129" name="RC6">
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW64" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW75" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="130" name="RC7">
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="131" name="RD+">
+      <node ref="U2" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U8" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="132" name="RD-">
+      <node ref="U2" pin="1" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U8" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="133" name="RDBUS+">
+      <node ref="J2" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J2" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="134" name="RDBUS-">
+      <node ref="J2" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J2" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="135" name="RNRST">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="NRST" pintype="bidirectional"/>
+    </net>
+    <net code="136" name="RR1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="137" name="RR2">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="138" name="RR3">
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="139" name="RR4">
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="140" name="RR5">
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D69" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="141" name="RR6">
+      <node ref="D75" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D76" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D77" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D78" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D79" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D80" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="142" name="RSCL">
+      <node ref="J10" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J10" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="SCL" pintype="input"/>
+      <node ref="U8" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="143" name="RSDA">
+      <node ref="J10" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J10" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U6" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U8" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="144" name="RSWDCK">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U8" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="145" name="RSWDIO">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="146" name="RVBUS">
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J10" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J2" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="147" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBUS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="148" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="149" name="unconnected-(J2-PadA8)">
+      <node ref="J2" pin="A8" pinfunction="SBUS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="150" name="unconnected-(J2-PadB8)">
+      <node ref="J2" pin="B8" pinfunction="SBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="151" name="unconnected-(J9-PadA5)">
+      <node ref="J9" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="152" name="unconnected-(J9-PadA8)">
+      <node ref="J9" pin="A8" pinfunction="SBUS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="153" name="unconnected-(J9-PadB5)">
+      <node ref="J9" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(J9-PadB8)">
+      <node ref="J9" pin="B8" pinfunction="SBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(J10-PadA5)">
+      <node ref="J10" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(J10-PadA8)">
+      <node ref="J10" pin="A8" pinfunction="SBUS1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(J10-PadB5)">
+      <node ref="J10" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="158" name="unconnected-(J10-PadB8)">
+      <node ref="J10" pin="B8" pinfunction="SBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="159" name="unconnected-(U7-Pad2)">
+      <node ref="U7" pin="2" pinfunction="PC13-TAMPER-RTC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="160" name="unconnected-(U7-Pad3)">
+      <node ref="U7" pin="3" pinfunction="PC14-OSC32IN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(U7-Pad4)">
+      <node ref="U7" pin="4" pinfunction="PC15-OSC32OUT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(U7-Pad10)">
+      <node ref="U7" pin="10" pinfunction="PA0-WKUP" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(U7-Pad11)">
+      <node ref="U7" pin="11" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(U7-Pad12)">
+      <node ref="U7" pin="12" pinfunction="PA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="165" name="unconnected-(U7-Pad20)">
+      <node ref="U7" pin="20" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="166" name="unconnected-(U7-Pad21)">
+      <node ref="U7" pin="21" pinfunction="PB10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="167" name="unconnected-(U7-Pad22)">
+      <node ref="U7" pin="22" pinfunction="PB11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="168" name="unconnected-(U7-Pad30)">
+      <node ref="U7" pin="30" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(U7-Pad38)">
+      <node ref="U7" pin="38" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(U7-Pad39)">
+      <node ref="U7" pin="39" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(U7-Pad40)">
+      <node ref="U7" pin="40" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="172" name="unconnected-(U7-Pad41)">
+      <node ref="U7" pin="41" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="173" name="unconnected-(U7-Pad45)">
+      <node ref="U7" pin="45" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="174" name="unconnected-(U7-Pad46)">
+      <node ref="U7" pin="46" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="175" name="unconnected-(U8-Pad2)">
+      <node ref="U8" pin="2" pinfunction="PC13-TAMPER-RTC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="176" name="unconnected-(U8-Pad3)">
+      <node ref="U8" pin="3" pinfunction="PC14-OSC32IN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="177" name="unconnected-(U8-Pad4)">
+      <node ref="U8" pin="4" pinfunction="PC15-OSC32OUT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="178" name="unconnected-(U8-Pad10)">
+      <node ref="U8" pin="10" pinfunction="PA0-WKUP" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(U8-Pad11)">
+      <node ref="U8" pin="11" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="180" name="unconnected-(U8-Pad12)">
+      <node ref="U8" pin="12" pinfunction="PA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="181" name="unconnected-(U8-Pad20)">
+      <node ref="U8" pin="20" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(U8-Pad21)">
+      <node ref="U8" pin="21" pinfunction="PB10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="183" name="unconnected-(U8-Pad22)">
+      <node ref="U8" pin="22" pinfunction="PB11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="184" name="unconnected-(U8-Pad30)">
+      <node ref="U8" pin="30" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="185" name="unconnected-(U8-Pad38)">
+      <node ref="U8" pin="38" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="186" name="unconnected-(U8-Pad39)">
+      <node ref="U8" pin="39" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="187" name="unconnected-(U8-Pad40)">
+      <node ref="U8" pin="40" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="188" name="unconnected-(U8-Pad41)">
+      <node ref="U8" pin="41" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="189" name="unconnected-(U8-Pad45)">
+      <node ref="U8" pin="45" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="190" name="unconnected-(U8-Pad46)">
+      <node ref="U8" pin="46" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
